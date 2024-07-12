@@ -1,4 +1,4 @@
-# WeatherWise
+# SkyCastApp
 
 WeatherApp is a simple, elegant weather application built using modern Android development tools. It leverages the power of Jetpack Compose for UI, Retrofit for networking, and follows the MVVM (Model-View-ViewModel) architecture pattern.
 
